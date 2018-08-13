@@ -1,0 +1,6 @@
+C:\Users\Matt Schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\bin\Release\IttyBittyApocalypse.exe.config
+C:\Users\Matt Schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\bin\Release\IttyBittyApocalypse.exe
+C:\Users\Matt Schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\bin\Release\IttyBittyApocalypse.pdb
+C:\Users\Matt Schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\obj\Release\IttyBittyApocalypse.csproj.CoreCompileInputs.cache
+C:\Users\Matt Schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\obj\Release\IttyBittyApocalypse.exe
+C:\Users\Matt Schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\obj\Release\IttyBittyApocalypse.pdb

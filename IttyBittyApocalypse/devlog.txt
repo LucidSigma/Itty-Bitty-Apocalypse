@@ -1,0 +1,93 @@
+2018-July-20
+Implemented basic framework for roguelike.
+Movement and level reading from file.
+
+2018-July-21
+Weapon data reading from CSV files.
+Enemy data reading from XML file.
+Enemies implemented with basic movement and pathfinding.
+
+2018-July-22
+Major optimisation of drawing to console.
+Shields.
+Battle system.
+Chest opening.
+Statistics on side of level.
+
+2018-July-23
+Implemented shooting (bullets and marksman spit).
+
+2018-July-24
+Added breakable tiles.
+Added cooldown to marksman ranged attack.
+Shields now defend against marksman ranged attacks.
+Began level design.
+
+2018-July-25
+More level design.
+Improved stat display.
+
+2018-July-26
+Added reinforced and juggernaut enemies.
+Fixed some bugs.
+
+2018-July-27
+Added healer enemies.
+More level design.
+Level exit is now functional.
+Refactored some of the classes.
+Added exceptions for file reading.
+Gave the application a title and icon.
+
+2018-July-28
+Added intelligent ememies that utilise A* pathfinding.
+Added random level selection.
+
+2018-July-29
+Added menus.
+Added destroyer enemies.
+Created the start menu with help and credit screens.
+Make initial scavenging scene.
+Began working on events in between levels.
+
+2018-July-30
+Improved input.
+
+2018-July-31
+Added more events.
+Added eating system every day.
+Fixed some more bugs.
+
+2018-August-01
+Added more events.
+
+2018-August-02
+Added more events.
+Added level selection menu for each day.
+Fixed more bugs.
+More level design.
+
+2018-August-03
+Added more events.
+
+2018-August-04
+More level design.
+Fixed some bugs.
+
+2018-August-05
+Finished all events.
+More level design.
+Fixed some bugs.
+
+2018-August-06
+More level design.
+Fixed some bugs.
+
+2018-August-07
+More level design. All main levels are done.
+Added final score calculator.
+
+2018-August-08
+Finished level design.
+Finished end of game.
+Fixed some bugs.

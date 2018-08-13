@@ -1,0 +1,14 @@
+c:\users\matt schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\bin\Debug\IttyBittyApocalypse.exe.config
+c:\users\matt schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\bin\Debug\IttyBittyApocalypse.exe
+c:\users\matt schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\bin\Debug\IttyBittyApocalypse.pdb
+c:\users\matt schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\obj\Debug\IttyBittyApocalypse.csprojAssemblyReference.cache
+c:\users\matt schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\obj\Debug\IttyBittyApocalypse.csproj.CoreCompileInputs.cache
+c:\users\matt schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\obj\Debug\IttyBittyApocalypse.exe
+c:\users\matt schafer\source\repos\IttyBittyApocalypse\IttyBittyApocalypse\obj\Debug\IttyBittyApocalypse.pdb
+C:\Users\u1097044\Downloads\IttyBittyApocalypse-master\IttyBittyApocalypse\bin\Debug\IttyBittyApocalypse.exe.config
+C:\Users\u1097044\Downloads\IttyBittyApocalypse-master\IttyBittyApocalypse\bin\Debug\IttyBittyApocalypse.exe
+C:\Users\u1097044\Downloads\IttyBittyApocalypse-master\IttyBittyApocalypse\bin\Debug\IttyBittyApocalypse.pdb
+C:\Users\u1097044\Downloads\IttyBittyApocalypse-master\IttyBittyApocalypse\obj\Debug\IttyBittyApocalypse.csprojAssemblyReference.cache
+C:\Users\u1097044\Downloads\IttyBittyApocalypse-master\IttyBittyApocalypse\obj\Debug\IttyBittyApocalypse.csproj.CoreCompileInputs.cache
+C:\Users\u1097044\Downloads\IttyBittyApocalypse-master\IttyBittyApocalypse\obj\Debug\IttyBittyApocalypse.exe
+C:\Users\u1097044\Downloads\IttyBittyApocalypse-master\IttyBittyApocalypse\obj\Debug\IttyBittyApocalypse.pdb

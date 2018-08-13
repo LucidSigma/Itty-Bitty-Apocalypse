@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enemies>
+  <!--Zombie-->
+  <enemy name="Zombie">
+    <damage_min>3</damage_min>
+    <damage_max>7</damage_max>
+    <health>12</health>
+    <range>6</range>
+    <score>10</score>
+  </enemy>
+
+  <!--Fighter-->
+  <enemy name="Fighter">
+    <damage_min>11</damage_min>
+    <damage_max>15</damage_max>
+    <health>13</health>
+    <range>5</range>
+    <score>15</score>
+  </enemy>
+
+  <!--Tank-->
+  <enemy name="Tank">
+    <damage_min>4 </damage_min>
+    <damage_max>8</damage_max>
+    <health>27</health>
+    <range>6</range>
+    <score>15</score>
+  </enemy>
+
+  <!--Seeker-->
+  <enemy name="Seeker">
+    <damage_min>4</damage_min>
+    <damage_max>10</damage_max>
+    <health>14</health>
+    <range>14</range>
+    <score>16</score>
+  </enemy>
+
+  <!--Allrounder-->
+  <enemy name="Allrounder">
+    <damage_min>7</damage_min>
+    <damage_max>13</damage_max>
+    <health>21</health>
+    <range>8</range>
+    <score>25</score>
+  </enemy>
+    
+  <!--Marksman-->
+  <enemy name="Marksman">
+    <damage_min>4</damage_min>
+    <damage_max>7</damage_max>
+    <health>16</health>
+    <range>12</range>
+    <score>18</score>
+  </enemy>
+  
+  <!--Writher-->
+  <enemy name="Writher">
+    <damage_min>9</damage_min>
+    <damage_max>12</damage_max>
+    <health>7</health>
+    <range>5</range>
+    <score>12</score>
+  </enemy>
+
+  <!--Reinforced-->
+  <enemy name="Reinforced">
+    <damage_min>5</damage_min>
+    <damage_max>9</damage_max>
+    <health>19</health>
+    <range>7</range>
+    <score>18</score>
+  </enemy>
+  
+  <!--Juggernaut-->
+  <enemy name="Juggernaut">
+    <damage_min>13</damage_min>
+    <damage_max>27</damage_max>
+    <health>21</health>
+    <range>5</range>
+    <score>40</score>
+  </enemy>
+
+  <!--Healer-->
+  <enemy name="Healer">
+    <damage_min>3</damage_min>
+    <damage_max>6</damage_max>
+    <health>18</health>
+    <range>8</range>
+    <score>18</score>
+  </enemy>
+  
+  <!--Intelligent-->
+  <enemy name="Intelligent">
+    <damage_min>4</damage_min>
+    <damage_max>9</damage_max>
+    <health>23</health>
+    <range>12</range>
+    <score>18</score>
+  </enemy>
+  
+  <!--Destroyer-->
+  <enemy name="Destroyer">
+    <damage_min>12</damage_min>
+    <damage_max>13</damage_max>
+    <health>14</health>
+    <range>6</range>
+    <score>18</score>
+  </enemy>
+  
+  <!--Boss-->
+  <enemy name="Boss">
+    <damage_min>23</damage_min>
+    <damage_max>48</damage_max>
+    <health>64</health>
+    <range>15</range>
+    <score>1200</score>
+  </enemy>"
+</enemies>

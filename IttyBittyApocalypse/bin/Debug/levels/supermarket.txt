@@ -1,0 +1,26 @@
+#################################################
+#  ^  ,   W  ,,,      ^      ,      J    ,    ###
+#  C#O   C#O , C#C,  O#O   C#C   O#C   C#C  A  O#
+#  O#C   O#O   C#O   O#O   O#C   C#O   C#C    ###
+#  C#C S O#O   O#O   O#C A C#C   C#O  ,O#C     O#
+#  C#C   O#O Z O#C , O#C   C#O  DC#C   O#O  I ###
+#, O#O   C#O  ,O#O   O#C F O#O   C#O   C#O   , C#
+#  C#C   C#C   C#C   C#C   C#C R C#O   O#C    ###
+#  O#O  ,O#O ^ O#O   C#C   O#O I C#C , C#C  Z  O#
+#  O#O J C#O   O#O M C#O , O#C   C#C   O#C    ###
+#  O#O   C#C   C#O   O#O   C#C ^ O#C  ZC#O ,   C#
+#  C#C F O#C   O#C   C#O  TO#O   O#C   C#O    ###
+# I    ,   W      ,    ,    S      ,            #
+# ## ^  ##    ##    ##    ##    ##    ##    ##  #
+#  #    ,#  ^  #   ^ #     #   , #     #  ^  #  #
+#  #     #     #  ,  #  H  #     #   , #     #  #
+#         ^  ,      R      W  ,      ^    F     #
+#   ,W   Z              ,,,,       S  ,      D  #
+####################  ,,,,,  ####################
+#               D       ,,,,,            ^   M  #
+#            ,          ,,    ,   J         ,   #
+#     ,            ,                   T        #
+#        @           ^                ,     ,   #
+#            ,          /      ,     ,          #
+#                          H             ^      #
+#################################################
