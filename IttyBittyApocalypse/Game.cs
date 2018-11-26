@@ -377,7 +377,7 @@ namespace IttyBittyApocalypse
 
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Zombies lurk everywhere and there are many different types.");
-            Console.WriteLine("Regular zombies don't to anything special.");
+            Console.WriteLine("Regular zombies don't do anything special.");
             Console.WriteLine("Fighters do more damage and tanks have more health.");
             Console.WriteLine("Seekers have a longer range than others.");
             Console.WriteLine("Allrounder zombies have a balanced mix of damage, defence and range.");
